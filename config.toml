@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://kairos-website.pages.dev/"
+baseurl = "https://kairos-stellar.pages.dev/"
 languageCode = "en-us"
 title = "Hugo Stellar Theme"
 theme = "hugo-stellar-theme"
