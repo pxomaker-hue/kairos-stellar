@@ -1,0 +1,4 @@
+baseURL = "https://ton-site.pages.dev/"
+languageCode = "fr-fr"
+title = "Kairos"
+theme = "stellar"
