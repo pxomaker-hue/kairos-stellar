@@ -1,0 +1,13 @@
+name = "Stellar"
+license = "CCA 3.0"
+licenselink = "https://html5up.net/license"
+description = "Stellar is a clean and modern Hugo theme based on the HTML5 UP template. Perfect for showcasing projects and services."
+homepage = "https://github.com/pxomaker-hue/kairos-stellar"
+demosite = "https://kairos-stellar.pages.dev/"
+tags = ["responsive", "clean", "modern", "portfolio", "business"]
+features = ["responsive", "dark mode compatible"]
+min_version = "0.80.0"
+
+[author]
+  name = "HTML5 UP / Hugo Port"
+  homepage = "https://html5up.net"
