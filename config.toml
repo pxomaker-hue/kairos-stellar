@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://kairos-stellar.pages.dev/"
 languageCode = "en-us"
-title = "Hugo Stellar Theme"
+title = "stellar"
 theme = "stellar"
 
 googleAnalytics = "" #put your google-analytics ID here
