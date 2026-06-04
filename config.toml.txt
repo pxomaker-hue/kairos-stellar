@@ -1,7 +1,7 @@
 baseURL = "https://kairos-app.netlify.app/"
 languageCode = "en-us"
 title = "Kairos"
-theme = "."
+
 
 [params]
   description = "Application de gestion pour architectes"
