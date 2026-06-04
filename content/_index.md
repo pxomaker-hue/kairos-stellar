@@ -1,3 +1,3 @@
 ---
-title: "Kairos"
+title: "Home"
 ---
