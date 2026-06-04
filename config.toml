@@ -2,7 +2,7 @@
 baseurl = "https://kairos-stellar.pages.dev/"
 languageCode = "en-us"
 title = "Hugo Stellar Theme"
-theme = "hugo-stellar-theme"
+theme = "stellar"
 
 googleAnalytics = "" #put your google-analytics ID here
 
