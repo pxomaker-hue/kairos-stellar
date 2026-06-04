@@ -1,0 +1,14 @@
+[[menu.main]]
+  name = "Accueil"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Télécharger"
+  url = "/download/"
+  weight = 2
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 3

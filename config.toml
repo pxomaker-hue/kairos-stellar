@@ -1,0 +1,23 @@
+baseURL = "https://kairos-app.website/"
+languageCode = "fr-fr"
+title = "Kairos — Gestion d'agence pour architectes"
+theme = "stellar"
+
+[params]
+  description = "L'outil qui simplifie ta gestion et ta journée d'architecte"
+  author = "Atelier Oni"
+
+  [params.header]
+    title = "Kairos"
+    description = "L'outil qui simplifie ta gestion et ta journée d'architecte."
+    image = "images/logo.png"
+    [[params.header.actions]]
+      label = "Découvrir"
+      url = "#features"
+      primary = true
+    [[params.header.actions]]
+      label = "Télécharger"
+      url = "/download/"
+
+  [params.footer]
+    copyright = "© 2026 Atelier Oni — Kairos"
